@@ -23,6 +23,7 @@ body {
 }
 .brand {
   margin-top: -7px;
+  padding-left: 80px;
 }
 .brand span {
   color: aqua;
@@ -71,6 +72,7 @@ h1 {
 
 .info-content span {
   color: aqua;
+  
 }
 
 
@@ -78,11 +80,11 @@ h1 {
 
 .main img {
   border:  7px solid aqua;
-  width: 350px;
+  width: 400px;
   height: 520px;
   z-index: 1;
 }
-h1.luxsha{
+h1.tharsan{
     color: #191c32;
 }
 
@@ -197,6 +199,7 @@ h1.luxsha{
 
 .contact-section {
   padding: 3em;
+  
 }
 
 .container-contact {
